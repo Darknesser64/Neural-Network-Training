@@ -1,6 +1,6 @@
 # Neural-Network-Training
 
-## Команд адля установки зависимостей: 
+## Команда для установки зависимостей: 
 ```commandline
 pip install -r requirements.txt
 ```
