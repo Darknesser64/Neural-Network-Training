@@ -1,3 +1,1 @@
 # Neural-Network-Training
-hgdsghjdsakfgdsfiuvhkjdfghvbdjhgvb
-dfgd
