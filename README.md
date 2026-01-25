@@ -1,6 +1,6 @@
  # Neural-Network-Training
 
-```
+
 # GLAS — AI-модуль обработки обращений (NLP + STT + CV)
 
 ## О проекте
